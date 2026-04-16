@@ -33,6 +33,11 @@ Verify that login fails when the password is incorrect.
 ### Actual Result
 (To be filled during execution)
 
+### Status
+(to be filled after execution)
+
+
+
 ---
 
 ## ❌ TC-LOGIN-003: Invalid Email Format
@@ -59,6 +64,9 @@ Verify that login fails when the password is incorrect.
 ### Actual Result
 (To be filled during execution)
 
+### Status
+(to be filled after execution)
+
 ---
 
 ## ❌ TC-LOGIN-004: Empty Email Field
@@ -83,6 +91,9 @@ Verify that login fails when the password is incorrect.
 
 ### Actual Result
 (To be filled during execution) 
+
+### Status
+(to be filled after execution)
 
 ---
 
@@ -111,6 +122,9 @@ Verify that login fails when the password is incorrect.
 ### Actual Result
 (To be filled during execution)
 
+### Status
+(to be filled after execution)
+
 
 ---
 
@@ -137,3 +151,6 @@ Verify that login fails when the password is incorrect.
 
 ### Actual Result
 (To be filled during execution)
+
+### Status
+(to be filled after execution)
