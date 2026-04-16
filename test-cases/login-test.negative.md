@@ -14,6 +14,11 @@ Verify that login fails when the password is incorrect.
 - Email: testuser@example.com
 - Password: WrongPassword
 
+### Preconditions
+- Browser is open
+- User is on the login page
+- Test account exists 
+
 ### Steps
 1. Navigate to the login page  
 2. Enter a valid email  
@@ -36,6 +41,11 @@ Verify that login fails when the password is incorrect.
 - Email: testuserexample.com
 - Password: Password123
 
+### Preconditions
+- Browser is open
+- User is on the login page
+- Test account exists 
+
 ### Steps
 1. Navigate to the login page  
 2. Enter an invalid email  
@@ -57,6 +67,11 @@ Verify that login fails when the password is incorrect.
 - Email: (empty)
 - Password: Password123
 
+### Preconditions
+- Browser is open
+- User is on the login page
+- Test account exists 
+
 ### Steps
 1. Open login page  
 2. Leave the Email field empty  
@@ -76,6 +91,11 @@ Verify that login fails when the password is incorrect.
 ### Test Data
 - Email: mariko_tajima@hotmail.com
 - Password: (empty field)
+
+### Preconditions
+- Browser is open
+- User is on the login page
+- Test account exists 
 
 ### Steps
 1. Open login page  
@@ -99,6 +119,12 @@ Verify that login fails when the password is incorrect.
 ### Test Data
 - Email: (empty field)
 - Password: (empty field)
+
+### Preconditions
+- Browser is open
+- User is on the login page
+- Test account exists 
+
 
 ### Steps
 1. Open login page  
