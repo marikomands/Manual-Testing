@@ -1,4 +1,4 @@
-# Create Account Test Cases:  "Create Account" success scenarios
+# Positive Test Cases:  "Create Account" success scenarios
 
 ## Test ID
 TC-CreateAccount-001 
