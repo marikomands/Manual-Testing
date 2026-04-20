@@ -1,4 +1,4 @@
-# Positive Test Case: Login Function
+# Positive Test Case: Login Success Scenarios
 
 ## Test ID
 TC-LogInSuccess-001
