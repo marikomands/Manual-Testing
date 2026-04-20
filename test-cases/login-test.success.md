@@ -1,7 +1,7 @@
-# Test Case: Login Function
+# Positive Test Case: Login Function
 
 ## Test ID
-TC-001
+TC-LogInSuccess-001
 
 ## Purpose
 Verify that a user can successfully log in with valid credentials.
