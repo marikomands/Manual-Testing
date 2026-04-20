@@ -1,7 +1,7 @@
 # Positive Test Case: Login Success Scenarios
 
 ## Test ID
-TC-LogInSuccess-001
+TC-LogIn-001
 
 ## Purpose
 Verify that a user can successfully log in with valid credentials.
