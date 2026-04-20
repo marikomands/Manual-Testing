@@ -1,0 +1,38 @@
+# Sign-up form Test Cases:  Sign-up success scenarios
+
+## Test ID
+TC-SIGNUP-001 to TC-LOGIN-006
+
+---
+
+##  TC-LOGIN-001: Valid Sign-up
+
+### Purpose
+Verify that Sign-up succeed when the Email and password are correct
+
+### Test Data
+- Email: mariko_tajima@example.com
+- Password: CorrectPassword
+
+### Preconditions
+- Browser is open
+- click Craete your account
+- User is on the create account page
+- Test account exists 
+
+### Steps
+1. Navigate to the create account page  
+2. Enter a valid email  
+3. Enter an valid password  
+4. Click "Create Account"  
+
+### Expected Result
+- sign-up succeeed
+- Navigate to the success Page message showing "Thank you for creating your account"  
+- User stays on the success page
+
+### Actual Result
+(To be filled during execution)
+
+### Status
+(to be filled after execution)
