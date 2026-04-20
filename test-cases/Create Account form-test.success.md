@@ -5,8 +5,6 @@ TC-CreateAccount-001
 
 ---
 
-##  TC-LOGIN-001: Valid account created
-
 ### Purpose
 Verify that creating account succeed when the email and password are correct
 
