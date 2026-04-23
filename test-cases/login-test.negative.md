@@ -154,3 +154,40 @@ Verify that login fails when the password is incorrect.
 
 ### Status
 (to be filled after execution)
+
+---
+
+## ❌ TC-LOGIN-007: Password exceeds maximum length (26 characters)
+
+
+### Purpose
+Verify that login fails when password exceeds maximum length of 26 characters.  
+
+
+### Test Data
+- Email: testuser@example.com
+- Password: testUsersuing123!HappyDay
+
+### Preconditions
+- Browser is launched
+- User is on the login page
+- Valid test user account exists
+
+### Steps
+1. Enter "testuser@example.com" in the Email field
+2. Enter "testUsersuing123!HappyDay" in the Password field
+3. Click "Login"
+
+### Expected Result
+-  Login rejected
+-  Error message is displayed indicating "Password exceeds maximum length"  
+
+### Actual Result
+(To be filled during execution)
+
+### Status
+(to be filled after execution)
+
+
+  
+
